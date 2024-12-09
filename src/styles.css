@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: rgb(182, 21, 21);
+}
+body {
+  text-align: center;
+  background-color: black;
+}
+about {
+  color: rgb(16, 128, 226);
+  background-color: black;
+}
